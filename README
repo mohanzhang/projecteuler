@@ -1,0 +1,9 @@
+These are my attempts at solving the ProjectEuler problems. They are by no
+means the best or most concise solutions, but instead whatever (a) popped into
+my head first and (b) actually got the correct answer.
+
+I don't go back and edit the original solution once I get the correct answer
+for the purpose of demonstrating my organic thinking in the languages I use. It
+is especially true that Haskell allows a level of compression and concision
+that is directly proportional to the skill and intelligence of the coder, so my
+more verbose solutions are offered as evidence of this continuum.
